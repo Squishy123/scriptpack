@@ -1,0 +1,22 @@
+{
+  "name": "scriptpack",
+  "version": "1.0.0",
+  "description": "Generates and loads scripts in the order of their dependencies",
+  "main": "scriptpack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squishy123/scriptpack.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Christian Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Squishy123/scriptpack/issues"
+  },
+  "homepage": "https://github.com/Squishy123/scriptpack#readme"
+}
